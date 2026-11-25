@@ -1,0 +1,45 @@
+HOME DIRECTORY
+total 12
+drwxr-x---   1 tanmaymishra tanmaymishra 4096 Nov 18 08:35 .
+drwxr-xr-x   1 root         root         4096 Oct 21 07:45 ..
+-rw-------   1 tanmaymishra tanmaymishra  664 Nov 20 05:04 .bash_history
+-rw-r--r--   1 tanmaymishra tanmaymishra  220 Oct 21 07:45 .bash_logout
+-rw-r--r--   1 tanmaymishra tanmaymishra 3771 Oct 21 07:45 .bashrc
+drwxr-x---   1 tanmaymishra tanmaymishra 4096 Oct 21 07:46 .cache
+drwxr-x---   1 tanmaymishra tanmaymishra 4096 Oct 21 07:50 .config
+-rw-r--r--   1 tanmaymishra tanmaymishra   64 Nov 18 08:08 .gitconfig
+drwxr-xr-x   1 tanmaymishra tanmaymishra 4096 Oct 21 07:47 .landscape
+-rw-------   1 tanmaymishra tanmaymishra   20 Nov 18 08:35 .lesshst
+drwx------   1 tanmaymishra tanmaymishra 4096 Nov  4 04:31 .local
+-rw-r--r--   1 tanmaymishra tanmaymishra    0 Nov 25 09:59 .motd_shown
+-rw-r--r--   1 tanmaymishra tanmaymishra  807 Oct 21 07:45 .profile
+drwxr-xr-x   1 tanmaymishra tanmaymishra 4096 Nov  4 06:50 Downloads
+drwxr-xr-x   1 tanmaymishra tanmaymishra 4096 Nov 18 07:49 LAB3
+drwxr-xr-x   1 tanmaymishra tanmaymishra 4096 Nov 18 07:48 cd
+drwxr-xr-x   1 tanmaymishra tanmaymishra 4096 Nov  4 06:46 cse103_backups
+drwxr-xr-x   1 tanmaymishra tanmaymishra 4096 Nov 18 07:51 cse103_lab
+drwxr-xr-x   1 tanmaymishra tanmaymishra 4096 Nov 20 04:52 developer-portfolio
+-rw-r--r--   1 tanmaymishra tanmaymishra    0 Oct 21 07:56 perm_test.sh
+drwxr-xr-x   1 tanmaymishra tanmaymishra 4096 Nov  4 06:39 testbackup
+PROCESSES
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.1  0.0  11868  1176 ?        Ssl  09:59   0:00 /init
+root         4  0.0  0.0  11852   672 ?        Sl   09:59   0:00 plan9 --control-socket 6 --log-level 4 --server-fd 7 --pipe-fd 9 --socket-path /mnt/c/Users/MISHRA JI/AppData/Local/wsl/{d9b3f46e-5bde-42d3-a34e-c2ca5d55a80c}/fsserver --log-truncate
+root         7  0.0  0.0  11896   612 tty1     Ss   09:59   0:00 /init
+tanmaym+     8  0.1  0.0  14300  3972 tty1     S    09:59   0:00 -bash
+tanmaym+   174 33.3  0.0  15192  2692 tty1     R    10:03   0:00 ps aux
+tanmaym+   175 33.3  0.0  24336  4100 tty1     S    10:03   0:00 head -10
+DISK USAGE
+Filesystem      Size  Used Avail Use% Mounted on
+rootfs          238G  117G  122G  49% /
+none            238G  117G  122G  49% /dev
+none            238G  117G  122G  49% /run
+none            238G  117G  122G  49% /run/lock
+none            238G  117G  122G  49% /run/shm
+none            238G  117G  122G  49% /run/user
+tmpfs           238G  117G  122G  49% /sys/fs/cgroup
+C:\             238G  117G  122G  49% /mnt/c
+MEMORY
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       7.1Gi       8.7Gi        17Mi       223Mi       8.7Gi
+Swap:           29Gi       2.5Mi        29Gi
