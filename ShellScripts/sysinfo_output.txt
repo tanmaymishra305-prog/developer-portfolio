@@ -1,0 +1,16 @@
+================================
+System Report - Tanmay Mishra
+Roll No: 2601730174
+Date: Wed Nov 25 10:04:53 UTC 2026
+================================
+CPU Information:
+CPU(s):              8
+On-line CPU(s) list: 0-7
+Memory Information:
+Total: 15Gi Used: 7.1Gi
+Top 3 CPU Processes:
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tanmaym+   238  100  0.0  15192  2696 tty1     R    10:04   0:00 ps aux --sort=-%cpu
+tanmaym+   231 50.0  0.0  12980  1892 tty1     S    10:04   0:00 /bin/bash ./ShellScripts/sysinfo.sh
+tanmaym+     8  0.1  0.0  14300  3972 tty1     S    09:59   0:00 -bash
+Report generated successfully.
